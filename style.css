@@ -1,0 +1,34 @@
+* {
+    box-sizing: border-box;
+}
+
+body {
+    margin: 0px;
+}
+
+main {
+    display: block;
+    margin-top: 10px;
+    margin-left: 10px;
+    width: 500px;
+}
+
+#chatbox {
+    height: 300px;
+    padding: 5px;
+    overflow-y: scroll;
+    word-wrap: break-word;
+    border: 1px solid black;
+}
+
+#chatbox p {
+
+}
+
+section.input {
+    margin-top: 5px;
+}
+
+#usrmsg {
+    width: 100%;
+}
