@@ -1,0 +1,6 @@
+# Node.js modules
+/node_modules
+
+# Web files directories (see ../front-end for webapp files)
+/www
+/public

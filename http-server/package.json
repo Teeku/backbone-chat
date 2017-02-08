@@ -1,0 +1,12 @@
+{
+  "name": "@Teeku/backbone-http-server",
+  "version": "0.1.0",
+  "description": "HTTP Server for the Backbone Chat",
+  "main": "httpserver.js",
+  "author": "Teeku",
+  "dependencies": {
+    "colors": "^1.1.2",
+    "express": "^4.14.1",
+    "vorpal": "^1.11.4"
+  }
+}
