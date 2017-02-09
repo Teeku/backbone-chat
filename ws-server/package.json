@@ -1,0 +1,12 @@
+{
+  "name": "@Teeku/backbone-ws-server",
+  "version": "0.1.0",
+  "description": "WebSocket Server for the Backbone Chat",
+  "main": "wsserver.js",
+  "author": "Teeku",
+  "dependencies": {
+    "colors": "^1.1.2",
+    "sockjs": "^0.3.18",
+    "vorpal": "^1.11.4"
+  }
+}

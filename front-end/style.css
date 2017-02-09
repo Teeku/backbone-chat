@@ -22,7 +22,7 @@ main {
 }
 
 #chatbox p {
-
+    margin: 0.1em;
 }
 
 section.input {
